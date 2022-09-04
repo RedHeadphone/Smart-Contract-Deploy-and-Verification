@@ -1,6 +1,6 @@
 # Smart contract Deploy and Verification
 
-This project demonstrates a basic Hardhat use case of deploying and verification of smart contract. 
+This project demonstrates a basic Hardhat use case of deploying and verification of smart contract. It consist of boilerplate for hardhat config and deploy script.
 
 ### Commands
 
